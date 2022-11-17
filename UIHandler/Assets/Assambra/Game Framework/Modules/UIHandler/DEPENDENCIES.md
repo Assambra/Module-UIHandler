@@ -1,7 +1,7 @@
 # Dependencies
 
 ## Game Framework Modules
- - None
+ - Module-GameManager
 
 ## Unity Package Manager
 
