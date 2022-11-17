@@ -73,3 +73,22 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Dependencies Game Framework Modules
+Assets/Assambra/Demo/DemoScenes/GameManager.unity
+Assets/Assambra/Demo/DemoScenes/GameManager.unity.meta
+Assets/Assambra/Demo/Scripts/GameStateListener.cs
+Assets/Assambra/Demo/Scripts/GameStateListener.cs.meta
+Assets/Assambra/Game Framework/Modules/GameManager.meta
+Assets/Assambra/Game Framework/Modules/GameManager/DEPENDENCIES.md
+Assets/Assambra/Game Framework/Modules/GameManager/DEPENDENCIES.md.meta
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts.meta
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/DontDestroy.cs
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/DontDestroy.cs.meta
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Enums.meta
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Manager.meta
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Enums/GameState.cs
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Enums/GameState.cs.meta
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Manager/GameManager.cs
+Assets/Assambra/Game Framework/Modules/GameManager/Scripts/Manager/GameManager.cs.meta
+Assets/Assambra/Demo/Scripts.meta
