@@ -9,6 +9,9 @@
     <a href="https://github.com/Assambra">
         <img src="Github/Images/Assambra-Logo-512x512.png" alt="Logo" width="80" height="80">
     </a>
+    <p align="center">
+        This Module are now included in the <a href="https://github.com/Assambra/Module-GameManager">Module-GameManager</a>!</a>
+    </p>
     <h1 align="center">Module-UIHandler</h1>
     <p align="center">
         The UIHandler is a module and part of our <a href="https://github.com/Assambra/Unity-Game-Framework">Unity Game Framework</a>
@@ -69,8 +72,7 @@ Learn more about the Unity Game Framework <a href="https://github.com/Assambra/U
 ## Modules
 <ul>
     <li><a href="https://github.com/Assambra/Module-GameManager">GameManager</a></li>
-    <li><a href="https://github.com/Assambra/Module-SceneHandler">SceneHandler</a></li>
-    <li><a href="https://github.com/Assambra/Module-UIHandler">UIHandler</a></li>
+    <li><a href="https://github.com/Assambra/Module-MouseHandler">MouseHandler</a></li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
